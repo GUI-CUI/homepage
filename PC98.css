@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'PC98';
+  src: url('/font/PC9800.ttf') format('truetype');
+}
+
+body {
+	font-family: PC98;
+}
