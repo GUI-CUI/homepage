@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'PC98';
+  src: url('/font/PC9800.ttf') format('truetype');
+}
+
 body {
   text-align: center;
 }
@@ -8,7 +13,7 @@ a {
   padding: 10px;
   border-radius: 10px;
   text-decoration: none;
-  margin-top: 5px;
+  margin-bottom: 10px;
 }
 
 a:hover {
