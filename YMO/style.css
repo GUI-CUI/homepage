@@ -22,3 +22,8 @@ a:hover {
   background-color: gold;
   color: black;
 }
+
+h3 {
+  background-color: black;
+  color: gold;
+}
