@@ -1,4 +1,4 @@
-#!/perl
+#!/bin/perl
 
 # 電子掲示板 -Trees- v2.11 FreeSoft
 # (c)1999-2009 by CGI-RESCUE
